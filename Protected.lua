@@ -2,9 +2,12 @@
 
 Hi! I know you want to see my code 👀
 
-I’m also selling the open-source source code for this, available for Philippine pesos (PHP) or USD.
+I'm also selling the open-source source code for this,
+available for Philippine pesos (PHP) or USD.
 
-If you’re interested in buying, join my Discord server for more details, or message me on TikTok: @_jsephmols | https://discord.gg/C8WUgjPqK
+If you're interested in buying,
+join my Discord server for more details, or 
+message me on TikTok: _jsephmols | Discord: https://discord.gg/C8WUgjPqK
 
 
 ]]--

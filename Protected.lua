@@ -39,7 +39,7 @@ task.spawn(function()
         SendNotification({
             Title = "Script is Under Maintenance",
             Text = "In the meantime, visit our Discord.",
-            Duration = 4
+            Duration = 10
         })
     else
         SendNotification({

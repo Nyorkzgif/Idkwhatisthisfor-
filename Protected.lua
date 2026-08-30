@@ -37,8 +37,8 @@ task.spawn(function()
 
     if copied then
         SendNotification({
-            Title = "Script is Under Maintenance",
-            Text = "In the meantime, visit our Discord.",
+            Title = "The script has been changed and updated to the latest version!",
+            Text = "Visit our Discord to get the Script.",
             Duration = 10
         })
     else
